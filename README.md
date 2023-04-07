@@ -1,10 +1,10 @@
-# Notes from the project owner
+# Let's collaborate and innovate! 
 
-To open up more innovation and research, SafeTravelPH Mobility Innovations Organization, Inc., has started this open-source project that aims to provide developers with access to public transport data through a public API. This makes it easier for software developers to create their own public transport apps (like SakayPH) and provide realtime updates, not just static information about the routes. Contact SafeTravelPH, a nonprofit organization based in UP Diliman, for more information and collaboration.
+To open up more innovation and research, SafeTravelPH Mobility Innovations Organization, Inc., a nonprofit organization based in UP Diliman, has started this open-source project that aims to provide developers with access to public transport data through a public API. This makes it easier for software developers to create their own public transport apps (like SakayPH) and provide realtime updates, not just static information about the routes. Contact SafeTravelPH for more information and collaboration.
 
-The project involves creating a public API that exposes public transport data in a standardized format. The data will come from drivers using a fleet driver monitoring app such the SafeTravelPH mobile app (available on Google Play and Apple PlayStore, allowing developers to query the data for real-time information such as PUV locations, estimated arrival times, and service alerts.
+The project involves creating a public API that exposes public transport data in a standardized Google-tech format. The data will come from drivers using a fleet driver monitoring app such as the SafeTravelPH mobile app (available on Google Play), allowing developers to query the data for real-time information such as PUV locations, estimated arrival times, and service alerts. SafeTravelPH works with local government units and operators to test and improve this modern monitoring tool for public transport.
 
-Public transport operators and regulators can provide real-time data to developers, which can lead to an increase in ridership and overall customer satisfaction. Developers can create innovative transit apps that improve the transit experience for commuters, such as apps that provide trip planning, providing customer/commuter feedbacks to operators, and recording trip milestones and getting incentives from operators like fare discount coupons.
+As public transport operators and regulators provide real-time data to commuters thru apps, the transport system can lead to optimized and efficient ridership and overall customer satisfaction. Developers can create innovative transit apps that improve the transit experience for commuters, such as apps that provide trip planning, providing customer/commuter feedbacks to operators, and recording trip milestones and getting incentives from operators like fare discount coupons.
 
 # Public Transport Information System API for Commuter App Developers
 
@@ -89,11 +89,10 @@ DB_PASSWORD=<database password>
 This project is licensed under the {} License - see the LICENSE file for details.
   
 ## Acknowledgements
-This project was inspired by the need for better bus information systems in the Philippines.
-Thanks to the Google Transit Partner Program for providing access to the GTFS feed specification.
+This project was inspired by the need for better bus information systems in the Philippines. Thanks to the Google Transit Partner Program for providing access to the GTFS feed specification.
 
 ***
-## Other similar open source projects outside the Philippine
+## Other similar open source projects outside the Philippines
 Here are some open source projects related to public transit information systems:
 
 1. Transitland - an open platform for accessing and sharing transit data from around the world: https://github.com/transitland/transitland
@@ -109,7 +108,7 @@ Here are some open source projects related to public transit information systems
 ***
 # Publishing the API
 
-The API can be accessed by other developers who want to build their own applications that use the data and services provided by the transportation system. These applications could include bus tracking apps, trip planning tools, and fare calculators. In the case of this example we have been discussing, the API would provide access to the GTFS feeds being published by the transport provider or regulator in the Philippines. Other developers could use this API to retrieve the data and use it in their own applications. 
+The API can be accessed by other developers who want to build their own applications that use the data and services provided by the transportation system. These applications could include PUV tracking apps, trip planning tools, and fare calculators. In the case of this example we have been discussing, the API would provide access to the GTFS feeds being published by a transport provider or regulator in the Philippines. Other developers could use this API to retrieve the data and use it in their own applications. 
 
 To use the API, developers would need to send HTTP requests to specific URLs provided by the API. These requests would include parameters such as the data and time of the request, the type of data being requested (e.g. bus locations), and any filters or options that the developer wants to apply. The API would then respond with the requested data in a structured format, such as JSON or XML. It is possible to make the API available publicly without requiring developers to register with the transit agency or Google Transit. However, the transit agency may choose to implement authentication and rate limiting to prevent abuse of the API and ensure that it is used responsibly.
 
