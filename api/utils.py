@@ -1,3 +1,5 @@
+# This file contains utility functions used by the API.
+
 def get_unit_location(unit_id: int) -> Tuple[float, float]:
     # code to retrieve unit location from the database
     return lat, long
