@@ -135,7 +135,7 @@ Here are the high-level steps to publish your API on Google Cloud Platform and p
 These are just the high-level steps, and there are many details and configuration options to consider along the way. You'll want to refer to the documentation for each service to ensure you're configuring everything correctly.
 
 ***
-## Do more with us!
+## Accelerate mobility tech innovations with us!
 
 Our organization is dedicated to promoting open data for public transport in the Philippines and building longterm partnerships. We believe that open data, open source, and open governance can lead to better public transportation services, improved commuter experience, and sustainable operations and dignified livelihood for transport workers.
 
