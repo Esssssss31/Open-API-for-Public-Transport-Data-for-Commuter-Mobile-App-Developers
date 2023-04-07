@@ -133,3 +133,12 @@ Here are the high-level steps to publish your API on Google Cloud Platform and p
 7. Share the API URL and API key: Finally, you'll need to share the URL for your API along with the API key with other developers who want to use your API. You can share this information through your API documentation, or through other means like email or messaging apps.
 
 These are just the high-level steps, and there are many details and configuration options to consider along the way. You'll want to refer to the documentation for each service to ensure you're configuring everything correctly.
+
+***
+## Do more with us!
+
+Our organization is dedicated to promoting open data for public transport in the Philippines and building longterm partnerships. We believe that open data, open source, and open governance can lead to better public transportation services, improved commuter experience, and sustainable operations and dignified livelihood for transport workers.
+
+We invite government agencies, local government units, professionals, advocates, operators, students, and academics to contribute in our open source software projects, and other policy research and development programs, under the Participatory Action Research framework.
+
+What to do more with us? Be a member of SafeTravelPH! We are a SEC-accredited membership organization and we want help develop and capacitate modern transport practitioners and researchers.  Learn more about our membership application [here](https://docs.google.com/forms/d/1J9pBTvL9IxxGj236DBxRdyDEo6CnXCteiZWhntx8T8w/edit).
