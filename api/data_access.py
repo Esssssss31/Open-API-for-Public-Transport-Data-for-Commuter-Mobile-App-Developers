@@ -1,3 +1,5 @@
+# This file contains the code for accessing the GTFS data.
+
 import pymongo
 
 class DataAccess:
