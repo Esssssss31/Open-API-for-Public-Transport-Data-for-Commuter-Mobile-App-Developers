@@ -12,6 +12,12 @@ This project aims to improve the availability and accessibility of transit data 
 
 The intended users of this project are developers who want to create their own PUV information apps using the GTFS feeds published by the local government units, government agencies, or PUV Operators. SafeTravelPH, a nonprofit organization based in UP Diliman, is working with these stakeholders to be able to generate data from PUV trips using a mobile app to be used by drivers. They (the LGU, DOTr/LTFRB, operators or a consortium among them) are responsible for maintaining the GTFS feeds and publishing them through a public API, which developers can use to access the data for their own applications.
 
+WHY STANDARDIZE? 
+
+Here's a simple slide by MobilityData.org to explain it. You can learn more with the complete presentation by watching this [Youtube video](https://www.youtube.com/watch?v=-qA9V4XAD5w).
+
+![alt text](https://github.com/Esssssss31/Open-API-for-Public-Transport-Data-for-Commuter-Mobile-App-Developers/blob/main/assets/why-standardize.png "Why standardize")
+
 ## Getting Started
 Prerequisites
 - Python 3.6 or higher
